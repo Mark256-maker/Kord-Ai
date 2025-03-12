@@ -1,12 +1,12 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "1234564789", // your number with country code
-  OWNER_NAME: 'シ', // your owner name 
-  BOT_NAME: 'Kord AI', // your preferred bot name
-  SESSION_ID: '', // replace your_sessionid with yours and make sure its inside the 
+  OWNER_NUMBERS: "256754310866", // your number with country code
+  OWNER_NAME: 'Mark Bot ', // your owner name 
+  BOT_NAME: 'MarksoftBot', // your preferred bot name
+  SESSION_ID: 'kord_ai-46J7YhEHeNAi', // replace your_sessionid with yours and make sure its inside the 
   INVINCIBLE_MODE: true, // toogle invincible mode 
-  WORK_MODE: 'public',
+  WORK_MODE: 'private',
   TIME_ZONE: "Africa/Lagos",
   ANTI_VIEWONCE: true,
   READ_ALL_MESSAGES: false,
